@@ -1,0 +1,25 @@
+{
+    "usernames":
+        [
+            "MrBeast",
+            "NotYourAverageFlight",
+            "BetaSquad",
+            "Sideman", 
+            "IShowSpeed", 
+            "MjVAnimations", 
+            "awakenednle",
+            "AdinRoss",
+            "MARKOOOOOOOOO",
+            "KaiCenatLive",
+            "SSGAnimations"
+        ],
+    "api_key":
+        [
+            "use your api key",
+            "use your api key",
+            "use your api key",
+            "use your api key"
+            
+        ],
+    "webhook_url":"your webhook url"
+}
